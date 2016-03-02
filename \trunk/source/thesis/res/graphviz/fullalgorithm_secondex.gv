@@ -1,0 +1,27 @@
+digraph g {
+	rankdir=TD;
+	size="8,5"
+
+	node [fontname="Arial:bold" fontsize=22];
+	edge [fontname="Helvetica:bold" fontsize=18];
+
+	node [shape = doublecircle];
+		q3 [label=<q<SUB>3</SUB>>];
+	node [style = "bold,dashed" color = red];
+		q1 [label=<q<SUB>1</SUB>>];
+	node [shape = circle style ="solid" color = black];
+		q0 [label=<q<SUB>0</SUB>>];
+	node [color = red style = "bold,dashed"];
+		q2 [label=<q<SUB>2</SUB>>];
+	node [color = black style = "invis"];
+		qs;
+
+	edge [color = blue style = "dashed"];
+		q0-> q1 [label = " a "];
+	edge [color = black style = "solid"];
+		q0-> q2 [label = " a "];
+		q1-> q3 [label = " a "];
+		q2-> q3 [label = " a,b "];
+		q3-> q3 [label = " a "];
+		qs-> q0;
+}

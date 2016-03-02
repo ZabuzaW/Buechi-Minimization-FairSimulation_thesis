@@ -1,0 +1,27 @@
+digraph g {
+	rankdir=TD;
+	size="8,5"
+
+	node [fontname="Arial:bold" fontsize=22];
+	edge [fontname="Helvetica:bold" fontsize=18];
+
+	node [shape = doublecircle];
+		q4 [label=<q<SUB>4</SUB>>];
+	node [color = black shape = circle];
+		q2 [label=<q<SUB>2</SUB>>];
+		q5 [label=<q<SUB>5</SUB>>];
+		q3 [label=<q<SUB>3</SUB>>];
+	node [color = blue];
+		q1 [label=<q<SUB>1</SUB>>];
+
+	edge [color = black]
+	q3-> q5 [label = " a "];
+	q5-> q5 [label = " a "];
+
+	edge [color = darkorange style="dashed"]
+	q1 -> q3 [xlabel = "  b  "];
+	q3 -> q4 [label = " b "];
+	q4-> q4 [label = " b "];
+	edge [color = darkgreen style="dotted"]
+	q1 -> q2 [xlabel = "  a, b  "];
+}

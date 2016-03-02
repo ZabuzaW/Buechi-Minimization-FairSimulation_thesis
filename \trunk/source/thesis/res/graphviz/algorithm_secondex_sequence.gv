@@ -1,0 +1,25 @@
+digraph g { 
+	rankdir=TD;
+	size="8,5"
+
+	node [fontname="Arial:bold" fontsize=22];
+	edge [fontname="Helvetica:bold" fontsize=18];
+
+	node [color = black shape = ellipse style = solid];
+		
+	node [color = red style = "bold, dotted"]
+		q0q1 [pos = "3.5, 1!" label=<q<SUB>0</SUB>,q<SUB>1</SUB> (&infin;,1,&infin;)>];
+	node [color = black style = invis]
+		q1q1 [pos = "0, 1!" label=<q<SUB>1</SUB>,q<SUB>1</SUB>>];
+	node [color = black shape = box style = dashed];
+		q0q1b [pos = "3.5, 0!" label=<q<SUB>0</SUB>,q<SUB>1</SUB>,b (&infin;,1,&infin;)>];
+	node [color = black shape = box style = dashed];
+		q1q1a [pos = "1, 0!" label=<q<SUB>1</SUB>,q<SUB>1</SUB>,a (0,1,0)>];
+
+	q1q1-> q1q1a;
+	q1q1a-> q1q1;
+
+	q0q1-> q1q1a;
+	q0q1-> q0q1b;
+	q0q1b-> q0q1;
+}

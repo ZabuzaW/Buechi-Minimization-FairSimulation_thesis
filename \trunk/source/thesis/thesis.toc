@@ -1,0 +1,33 @@
+\select@language {english}
+\contentsline {section}{\numberline {1}Introduction}{6}{section.1}
+\contentsline {section}{\numberline {2}Simulation}{8}{section.2}
+\contentsline {subsection}{\numberline {2.1}Preliminaries}{8}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Types of simulation}{10}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Parity game}{12}{subsection.2.3}
+\contentsline {subsubsection}{\numberline {2.3.1}Strategy}{14}{subsubsection.2.3.1}
+\contentsline {subsection}{\numberline {2.4}Parity game graph}{16}{subsection.2.4}
+\contentsline {subsubsection}{\numberline {2.4.1}Correlation to parity games}{19}{subsubsection.2.4.1}
+\contentsline {section}{\numberline {3}Computing a simulation relation}{21}{section.3}
+\contentsline {subsection}{\numberline {3.1}Terminology}{21}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Enhanced version of Jurdzi\'nskis algorithm}{23}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}Complexity}{25}{subsubsection.3.2.1}
+\contentsline {subsubsection}{\numberline {3.2.2}Correctness}{27}{subsubsection.3.2.2}
+\contentsline {subsection}{\numberline {3.3}Simulation from progress measure}{31}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Illustration}{31}{subsection.3.4}
+\contentsline {subsubsection}{\numberline {3.4.1}Examples}{32}{subsubsection.3.4.1}
+\contentsline {section}{\numberline {4}Minimization using fair simulation}{38}{section.4}
+\contentsline {subsection}{\numberline {4.1}Language preservation}{39}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Modifing the game graph}{41}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Merge states}{43}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Remove redundant transitions}{44}{subsection.4.4}
+\contentsline {subsection}{\numberline {4.5}Algorithm}{45}{subsection.4.5}
+\contentsline {subsubsection}{\numberline {4.5.1}Complexity}{47}{subsubsection.4.5.1}
+\contentsline {subsection}{\numberline {4.6}Examples}{48}{subsection.4.6}
+\contentsline {section}{\numberline {5}Optimization}{50}{section.5}
+\contentsline {section}{\numberline {6}Experimental results}{56}{section.6}
+\contentsline {subsection}{\numberline {6.1}Random automata}{56}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Program analysis automata}{58}{subsection.6.2}
+\contentsline {subsection}{\numberline {6.3}Complemented automata}{60}{subsection.6.3}
+\contentsline {subsection}{\numberline {6.4}Summary}{61}{subsection.6.4}
+\contentsline {section}{\numberline {7}Conclusion}{62}{section.7}
+\contentsline {section}{\nonumberline References}{63}{section*.33}

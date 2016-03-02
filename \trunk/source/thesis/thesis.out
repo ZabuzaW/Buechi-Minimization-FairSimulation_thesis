@@ -1,0 +1,32 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Simulation}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Preliminaries}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Types of simulation}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Parity game}{section.2}% 5
+\BOOKMARK [3][-]{subsubsection.2.3.1}{Strategy}{subsection.2.3}% 6
+\BOOKMARK [2][-]{subsection.2.4}{Parity game graph}{section.2}% 7
+\BOOKMARK [3][-]{subsubsection.2.4.1}{Correlation to parity games}{subsection.2.4}% 8
+\BOOKMARK [1][-]{section.3}{Computing a simulation relation}{}% 9
+\BOOKMARK [2][-]{subsection.3.1}{Terminology}{section.3}% 10
+\BOOKMARK [2][-]{subsection.3.2}{Enhanced version of Jurdzinskis algorithm}{section.3}% 11
+\BOOKMARK [3][-]{subsubsection.3.2.1}{Complexity}{subsection.3.2}% 12
+\BOOKMARK [3][-]{subsubsection.3.2.2}{Correctness}{subsection.3.2}% 13
+\BOOKMARK [2][-]{subsection.3.3}{Simulation from progress measure}{section.3}% 14
+\BOOKMARK [2][-]{subsection.3.4}{Illustration}{section.3}% 15
+\BOOKMARK [3][-]{subsubsection.3.4.1}{Examples}{subsection.3.4}% 16
+\BOOKMARK [1][-]{section.4}{Minimization using fair simulation}{}% 17
+\BOOKMARK [2][-]{subsection.4.1}{Language preservation}{section.4}% 18
+\BOOKMARK [2][-]{subsection.4.2}{Modifing the game graph}{section.4}% 19
+\BOOKMARK [2][-]{subsection.4.3}{Merge states}{section.4}% 20
+\BOOKMARK [2][-]{subsection.4.4}{Remove redundant transitions}{section.4}% 21
+\BOOKMARK [2][-]{subsection.4.5}{Algorithm}{section.4}% 22
+\BOOKMARK [3][-]{subsubsection.4.5.1}{Complexity}{subsection.4.5}% 23
+\BOOKMARK [2][-]{subsection.4.6}{Examples}{section.4}% 24
+\BOOKMARK [1][-]{section.5}{Optimization}{}% 25
+\BOOKMARK [1][-]{section.6}{Experimental results}{}% 26
+\BOOKMARK [2][-]{subsection.6.1}{Random automata}{section.6}% 27
+\BOOKMARK [2][-]{subsection.6.2}{Program analysis automata}{section.6}% 28
+\BOOKMARK [2][-]{subsection.6.3}{Complemented automata}{section.6}% 29
+\BOOKMARK [2][-]{subsection.6.4}{Summary}{section.6}% 30
+\BOOKMARK [1][-]{section.7}{Conclusion}{}% 31
+\BOOKMARK [1][-]{section*.33}{References}{}% 32

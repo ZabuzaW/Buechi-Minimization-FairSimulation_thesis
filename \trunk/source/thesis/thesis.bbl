@@ -1,0 +1,111 @@
+\begin{thebibliography}{10}
+
+\bibitem{randomdfa}
+Marco Almeida, Nelma Moreira, and Rog{\'{e}}rio Reis.
+\newblock Aspects of enumeration and generation with a string automata
+  representation.
+\newblock {\em CoRR}, abs/0906.3853, 2009.
+
+\bibitem{vpa}
+Rajeev Alur and P.~Madhusudan.
+\newblock Visibly pushdown languages.
+\newblock In {\em Proceedings of the Thirty-sixth Annual ACM Symposium on
+  Theory of Computing}, STOC '04, pages 202--211, New York, NY, USA, 2004. ACM.
+
+\bibitem{nwa}
+Rajeev Alur and P.~Madhusudan.
+\newblock Adding nesting structure to words.
+\newblock {\em J. ACM}, 56(3):16:1--16:43, May 2009.
+
+\bibitem{svcomp16}
+Dirk Beyer.
+\newblock Reliable and reproducible competition results with benchexec and
+  witnesses (report on sv-comp 2016).
+\newblock In {\em TACAS}, Lecture Notes in Computer Science. Springer, 2016.
+
+\bibitem{complementautomata}
+Frantisek Blahoudek, Matthias Heizmann, Sven Schewe, Jan Strejcek, and
+  Ming-Hsien Tsai.
+\newblock Complementing semi-deterministic b{\"{u}}chi automata.
+\newblock In {\em TACAS}, Lecture Notes in Computer Science. Springer, 2016.
+
+\bibitem{simulation_general}
+Kousha Etessami, Thomas Wilke, and Rebecca~A. Schuller.
+\newblock Fair simulation relations, parity games, and state space reduction
+  for b\"{u}chi automata.
+\newblock {\em SIAM J. Comput.}, 34(5):1159--1175, May 2005.
+
+\bibitem{fair_minimization}
+Sankar Gurumurthy, Roderick Bloem, and Fabio Somenzi.
+\newblock Fair simulation minimization.
+\newblock In {\em Proceedings of the 14th International Conference on Computer
+  Aided Verification}, CAV '02, pages 610--624, London, UK, UK, 2002.
+  Springer-Verlag.
+
+\bibitem{buchiautomizer}
+Matthias Heizmann, Jochen Hoenicke, and Andreas Podelski.
+\newblock Termination analysis by learning terminating programs.
+\newblock In {\em {CAV}}, volume 8559 of {\em Lecture Notes in Computer
+  Science}, pages 797--813. Springer, 2014.
+
+\bibitem{jurdz_original}
+Marcin Jurdziński.
+\newblock Small progress measures for solving parity games.
+\newblock In Horst Reichel and Sophie Tison, editors, {\em STACS 2000}, volume
+  1770 of {\em Lecture Notes in Computer Science}, pages 290--301. Springer
+  Berlin Heidelberg, 2000.
+
+\bibitem{advanced_minimization}
+Richard Mayr and Lorenzo Clemente.
+\newblock Advanced automata minimization.
+\newblock In {\em Proceedings of the 40th Annual ACM SIGPLAN-SIGACT Symposium
+  on Principles of Programming Languages}, POPL '13, pages 63--74, New York,
+  NY, USA, 2013. ACM.
+
+\bibitem{ultimate}
+Software Engineering~University of~Freiburg.
+\newblock {ULTIMATE} - a program analysis framework.
+\newblock \url{https://ultimate.informatik.uni-freiburg.de}, feb 2013.
+
+\bibitem{reducedoutdegree}
+Sven Schewe.
+\newblock B{\"{u}}chi complementation made tight.
+\newblock In {\em {STACS}}, volume~3 of {\em LIPIcs}, pages 661--672. Schloss
+  Dagstuhl - Leibniz-Zentrum fuer Informatik, Germany, 2009.
+
+\bibitem{nphard}
+Sven Schewe.
+\newblock Minimisation of deterministic parity and buchi automata and relative
+  minimisation of deterministic finite automata.
+\newblock {\em CoRR}, abs/1007.1333, 2010.
+
+\bibitem{minsevpashrinknwa}
+Christian Schilling.
+\newblock Minimization of nested word automata.
+\newblock Master's thesis, University of Freiburg, Germany, 2013.
+
+\bibitem{ltl_formulae}
+Fabio Somenzi and Roderick Bloem.
+\newblock Efficient b\"{u}chi automata from ltl formulae.
+\newblock In {\em Proceedings of the 12th International Conference on Computer
+  Aided Verification}, CAV '00, pages 248--263, London, UK, UK, 2000.
+  Springer-Verlag.
+
+\bibitem{scc}
+Robert Tarjan.
+\newblock Depth-first search and linear graph algorithms.
+\newblock {\em SIAM Journal on Computing}, 1(2):146--160, 1972.
+
+\bibitem{knaster_tarski}
+Alfred Tarski.
+\newblock A lattice-theoretical fixpoint theorem and its applications.
+\newblock {\em Pacific J. Math.}, 5(2):285--309, 1955.
+
+\bibitem{livestates}
+Ming-Hsien Tsai, Seth Fogarty, Moshe Y.~Vardi, and Yih-Kuen Tsay.
+\newblock {\em Implementation and Application of Automata: 15th International
+  Conference, CIAA 2010, Winnipeg, MB, Canada, August 12-15, 2010. Revised
+  Selected Papers}, chapter State of B{\"u}chi Complementation, pages 261--271.
+\newblock Springer Berlin Heidelberg, Berlin, Heidelberg, 2011.
+
+\end{thebibliography}
